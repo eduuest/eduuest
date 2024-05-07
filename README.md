@@ -1,16 +1,15 @@
-### Hi there 👋
+# ¡Hola, bienvenido! 🤓
 
-<!--
-**eduuest/eduuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=200&size=20&duration=4000&pause=1500&color=1B77F0&center=true&vCenter=true&width=244&height=24&lines=Eduu.est">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! 😊 ¡Bienvenido/a a mi repositorio!
+
+
+<p align="center">
+  <a href="https://github.com/eduuest">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduuest&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
