@@ -5,7 +5,7 @@
 </p>
 
 
-Soy Eduardo, un estudiante de la carrera de Big Data. Este espacio está destinado a compartir todo lo que voy aprendiendo en mi trayecto académico. Espero que encuentres útiles los conocimientos que comparto aquí. Si estás interesado, te invito a comenzar tu exploración en este <a href="https://github.com/eduuest/tsbd" >repo</a>.
+Soy Eduardo, un estudiante de la carrera de Big Data. Este espacio está destinado a compartir todo lo que voy aprendiendo en mi trayecto académico. Espero que encuentres útiles los conocimientos que comparto aquí. Si estás interesado, te invito a comenzar tu exploración por este <a href="https://github.com/eduuest/tsbd" >repo</a>.
 
 
 <p align="center">
