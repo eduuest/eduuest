@@ -1,4 +1,4 @@
-<b><a href="https://github.com/eduuest/Backup-DA">Mi ruta</a></b> de aprendizaje en Análisis de Datos.
+<p align="center"><b><a href="https://github.com/eduuest/Backup-DA">Mi ruta</a></b> de aprendizaje en Análisis de Datos.</p>
 
 <p align="center">
   <a href="https://github.com/eduuest">
