@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bienvenidos: 👋
 
-<!--
-**eduuest/eduuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Eduardo Mendieta y soy estudiante de la carrera de Tecnología Superior en Big Data en el Instituto Superior Universitario Tecnológico del Azuay. Actualmente, me encuentro en proceso de adquirir las tecnologías y habilidades necesarias para desempeñarme como analista de datos, con el objetivo de contribuir tanto en el sector empresarial como ofrecer mis servicios como freelancer.
 
-Here are some ideas to get you started:
+A medida que avance en mi aprendizaje, compartiré mis proyectos para enriquecer la comunidad. Espero poder ser de utilidad y aportar valor a quienes me rodean.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Aprendiendo:
+
+- Python.
+- SQL.
+- Estadística. 
+- Librerias de Machine Learning.
+- Herramientas de Visualización de Datos.
