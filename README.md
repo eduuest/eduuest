@@ -12,3 +12,8 @@ A medida que avance en mi aprendizaje, compartiré mis proyectos para enriquecer
 - Estadística. 
 - Librerias de Machine Learning.
 - Herramientas de Visualización de Datos.
+
+## He agregado otro cambio desde otra computadora y tienes que descargarlo:
+- 👻
+- 👀
+- 👽
